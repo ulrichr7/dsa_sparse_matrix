@@ -1,6 +1,6 @@
 # Sparse Matrix Operations
 
-## Author: Manzi David
+## Author: Ulrich Rukazambuga
 
 This repository implements a **Sparse Matrix** class and provides various matrix operations such as **addition, subtraction, and multiplication** on sparse matrices read from text files. It is designed to efficiently manage large matrices with predominantly zero elements by storing only the non-zero entries.
 
@@ -27,7 +27,7 @@ This repository implements a **Sparse Matrix** class and provides various matrix
 Clone the repository:
 
 ```bash
-git clone https://github.com/DLOADIN/DSA_MATRIX_ASSIGNMENT/
+git clone https://github.com/ulrichr7/dsa_sparse_matrix.git
 ```
 
 Navigate to the project directory:
@@ -101,7 +101,4 @@ print(result)
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
-
----
-For more details, visit the repository: [GitHub - DLOADIN/DSA_MATRIX_ASSIGNMENT](https://github.com/DLOADIN/DSA_MATRIX_ASSIGNMENT/)
 
